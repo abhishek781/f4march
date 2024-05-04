@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/f4march/static/css/main.f855e6bc.css",
+    "main.js": "/f4march/static/js/main.903aaf64.js",
+    "static/js/453.0b30a3d5.chunk.js": "/f4march/static/js/453.0b30a3d5.chunk.js",
+    "index.html": "/f4march/index.html",
+    "main.f855e6bc.css.map": "/f4march/static/css/main.f855e6bc.css.map",
+    "main.903aaf64.js.map": "/f4march/static/js/main.903aaf64.js.map",
+    "453.0b30a3d5.chunk.js.map": "/f4march/static/js/453.0b30a3d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.903aaf64.js"
+  ]
+}
